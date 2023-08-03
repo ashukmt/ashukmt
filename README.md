@@ -10,6 +10,15 @@
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ashukmt&theme=highcontrast&hide_border=true"/></a>
 </p>
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,js,html,css,redux,nodejs,python,java,git" />
+  </a>
+</p>
+
+
+
+
 <!--
 Here are some ideas to get you started:
 
