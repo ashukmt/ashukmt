@@ -17,7 +17,7 @@ width="30px" align="center">&nbsp; A Passionate Developer </h4>
 
 - 📫 How to reach me **ashuofficial343@gmail.com**
 
-- ⚡ Fun fact **I m jolly 😄**
+- ⚡ Fun fact **I m a jolly person 😄**
 <br /> <br />
 <br /> <br />
 
