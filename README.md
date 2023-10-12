@@ -143,7 +143,7 @@ width="30px" align="center">&nbsp; A Passionate Developer </h4>
 
   
   <p>
-    <a href="https://github.com/ayushi9797"><span>
+    <a href="https://github.com/ashukmt"><span>
         <img align="left" 
           src="https://github-readme-stats.vercel.app/api/top-langs?username=ashukmt&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true"
           alt="ovi" width="45%" />
